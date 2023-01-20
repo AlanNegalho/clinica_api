@@ -1,5 +1,4 @@
 from django.db import models
-from django.core.validators import RegexValidator
 from datetime import date
 from django.core.exceptions import ValidationError
 
@@ -16,7 +15,7 @@ class Medico(models.Model):
     email = models.EmailField( max_length=50,blank=True)
     telefone = models.CharField(max_length=30, verbose_name='Nº telefone celular')
     especialidade = models.ForeignKey(Especialidade, on_delete=models.CASCADE, verbose_name="Especialidade") #relacionamento 1-n
-    #especialidade = models.ManyToManyField("Especialidade", verbose_name=("especialidade"))
+
     
     def __str__(self):
         return self.nome
