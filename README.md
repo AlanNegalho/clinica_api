@@ -179,10 +179,11 @@ Pode-se observar que ao acessarmos a página pela primeira vez nota-se que não 
 ![Captura de tela de 2023-01-19 19-26-14](https://user-images.githubusercontent.com/107214420/213577501-fd721244-7ab9-4571-ad60-4569634fff9e.png)
 
 Podemos observa no canto superior direito que estamos logados no sistema, podendo assim ser feito a ultilização da api. 
-#### Só e possessível acessar o endpoints Agenda com os seguintes dados usuário: Cliente  senha: 1234
 ![Captura de tela de 2023-01-19 19-47-56](https://user-images.githubusercontent.com/107214420/213579462-d94f6623-d358-4f32-8c31-f4f9ca8a254f.png)
 
+#### 
 ## Deploy da aplicação
-A api esta disponível na web, acesse através do [Link](http://alanoliveira.pythonanywhere.com/)
+A api esta disponível na web, acesse através do [Link](http://alanoliveira.pythonanywhere.com/) http://alanoliveira.pythonanywhere.com/. Só e possessível acessar o endpoints Agenda em nossa aplicação hospedada no servidor com os seguintes dados usuário: Cliente  senha: 1234
+
 
 ⌨️ com ❤️ por [Alan Negalho](https://github.com/AlanNegalho) 😊
