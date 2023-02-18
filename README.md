@@ -188,4 +188,4 @@ A api esta disponível na web, acesse através do [Link](http://alanoliveira.pyt
 
 ⌨️ com ❤️ por [Alan Negalho](https://github.com/AlanNegalho) 😊
 
-[⬆ Go back to the top!](#Desafio-clinica-api)<br>
+[⬆ Go back to the top!](https://github.com/AlanNegalho/clinica_api)<br>
