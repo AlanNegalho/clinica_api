@@ -13,3 +13,4 @@ class MedicoViewSet(viewsets.ModelViewSet):
 class AgendaViewSet(viewsets.ModelViewSet):
     serializer_class = serializers.AgendaSerializer
     queryset = models.Agenda.objects.all()
+    

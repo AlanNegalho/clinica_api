@@ -175,7 +175,7 @@ Acesse o link da aplicação:
 http://127.0.0.1:8000/
 ```
 
-Pode-se observar que ao acessarmos a página pela primeira vez nota-se que não estamos logados. Para resolvermos isso no link da aplicação http://127.0.0.1:8000/ adiciaonaremos um novo endedreços de pagina chamado admin então o novo link fica http://127.0.0.1:8000/admin  faça o ligin com os dados superuser criados anteriormente, retorne a página principal de aplicação http://127.0.0.1:8000/
+Pode-se observar que ao acessarmos a página pela primeira vez nota-se que não estamos logados. Para resolvermos isso no link da aplicação http://127.0.0.1:8000/ adiciaonaremos um novo endedreços de pagina chamado admin então o novo link fica http://127.0.0.1:8000/admin  faça o login com os dados superuser criados anteriormente, retorne a página principal de aplicação http://127.0.0.1:8000/
 ![Captura de tela de 2023-01-19 19-26-14](https://user-images.githubusercontent.com/107214420/213577501-fd721244-7ab9-4571-ad60-4569634fff9e.png)
 
 Podemos observa no canto superior direito que estamos logados no sistema, podendo assim ser feito a ultilização da api. 
@@ -187,3 +187,5 @@ A api esta disponível na web, acesse através do [Link](http://alanoliveira.pyt
 
 
 ⌨️ com ❤️ por [Alan Negalho](https://github.com/AlanNegalho) 😊
+
+[⬆ Go back to the top!](#Desafio-clinica-api)<br>
